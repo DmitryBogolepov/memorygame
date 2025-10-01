@@ -24,18 +24,3 @@
     grid-template-rows: repeat(4,1fr);
 }
 
-.card {
-    width: 100px;
-    height: 100px;
-    background-color: #3a3e4c;
-    border-radius: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-}
-
-.card img {
-    height: 100%;
-    width: 100%;
-}
