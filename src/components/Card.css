@@ -28,6 +28,7 @@
     position: absolute;
 }
 
+
 .card.opened .card-front {
     transform: rotateY(180deg);
 }
@@ -42,6 +43,7 @@
     transform: rotateY(0deg);
     opacity: 1;
 }
+
 
 .card img {
     height: 100%;
